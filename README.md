@@ -1,6 +1,6 @@
 #  Nex bot - Base para bots WhatsApp
 
-Base open source para bots para aprender typescript com whatsapp modular usando Baileys com sistema de plugins baseado em ES modules.
+**Base open source** para bots para aprender **TypeScript** com WhatsApp modular usando **Baileys** com sistema de **plugins** baseado em **ES modules**.
 
 ## 🚀 Começando
 
