@@ -1,7 +1,13 @@
 {
-  "name": "whatsapp-bot",
+  "name": "nex-bot",
   "version": "1.0.0",
-  "description": "Bot WhatsApp com Baileys e sistema de plugins",
+  "description": "Nex Bot - Base Open-Source para bots WhatsApp em TypeScript com arquitetura modular baseada em plugins",
+  "author": "BIEL (https://github.com/bielzzxy7)",
+  "homepage": "https://github.com/bielzzxy7/nex-bot",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/bielzzxy7/nex-bot.git"
+  },
   "type": "module",
   "main": "dist/index.js",
   "scripts": {
@@ -25,7 +31,11 @@
     "whatsapp",
     "bot",
     "baileys",
-    "plugins"
+    "typescript",
+    "plugins",
+    "open-source",
+    "nex-bot",
+    "whatsapp-bot"
   ],
   "license": "MIT"
 }
