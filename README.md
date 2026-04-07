@@ -1,6 +1,6 @@
-# Bot WhatsApp - Nex Bot
+#  Nex bot - Base para bots WhatsApp
 
-Bot WhatsApp modular usando Baileys com sistema de plugins baseado em ES modules.
+Base open source para bots para aprender typescript com whatsapp modular usando Baileys com sistema de plugins baseado em ES modules.
 
 ## 🚀 Começando
 
@@ -67,7 +67,7 @@ export default Menu;
 
 
 <p align="center">
-  <strong>Feito com ❤️ pelo BIEL</strong>
+  <strong>Feito com <img src="https://storageblack.cloud/midia/1775595228105.png" width="16" height="16" alt="heart" style="vertical-align: middle;"> pelo BIEL</strong>
 </p>
 
 > *"Sair do JavaScript foi a melhor decisão que tomei como dev. TypeScript não é só tipagem, é uma experiência de desenvolvimento completamente superior."*
@@ -75,4 +75,6 @@ export default Menu;
 
   ## Créditos
 
--  [![Instagram](https://upload.wikimedia.org/wikipedia/commons/a/a5/Instagram_icon.png)](https://instagram.com/not.biel) Biel
+<a target="_blank" style="text-decoration: none;">
+  <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" width="16" height="16" alt="Instagram" style="vertical-align: middle;"> <strong>@not.biel</strong>
+</a>
