@@ -76,5 +76,5 @@ export default Menu;
   ## Créditos
 
 <a target="_blank" style="text-decoration: none;">
-  <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" width="16" height="16" alt="Instagram" style="vertical-align: middle;"> <strong>@not.biel</strong>
+  <img src="https://github.com/dheereshag/coloured-icons/blob/master/public/logos/social%20media/instagram/instagram.svg" width="16" height="16" alt="Instagram" style="vertical-align: middle;"> <strong>@bielzzxy7</strong>
 </a>
